@@ -1,7 +1,7 @@
 {
     "manifest": {
         "author": "iAndy_HD3#3579",
-        "version": "1.0.0",
+        "version": "1.0.1",
         "name": "Matrix",
         "license": "no license",
 		"updater": "https:\/\/raw.githubusercontent.com\/iAndyHD3\/Aliucord-Themes\/mainV/Matrix\/Matrix.json"
@@ -17,7 +17,8 @@
         "background_secondary": 721420288,
         "accent": 2032183374,
         "statusbar": 1560281088,
-        "mention_highlight": 1211603032
+        "mention_highlight": 1211603032,
+	"uikit_settings_item_text_color_dark": -8342383
     },
     "colors": {
         "primary_dark_200": -872415233,
