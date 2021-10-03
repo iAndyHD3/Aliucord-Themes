@@ -1,7 +1,7 @@
 {
     "manifest": {
         "author": "iAndy_HD3#3579",
-        "version": "1.0.3",
+        "version": "1.0.4",
         "name": "Matrix",
         "license": "no license",
 		"updater": "https:\/\/raw.githubusercontent.com\/iAndyHD3\/Aliucord-Themes\/main/Matrix\/Matrix.json"
@@ -26,8 +26,7 @@
         "primary_dark_100": 1343912249,
         "primary_700": 1577058304,
         "uikit_btn_bg_color_selector_red": -566185626,
-        "primary_dark_400": -979318867,
-	"uikit_settings_item_text_color_dark": -8342383
+        "primary_dark_400": -979318867
     },
     "drawable_tints": {
         "drawable_overlay_guild_mentions_dark": 2063597568,
