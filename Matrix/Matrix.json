@@ -17,8 +17,7 @@
         "background_secondary": 721420288,
         "accent": 2032183374,
         "statusbar": 1560281088,
-        "mention_highlight": 1211603032,
-	"uikit_settings_item_text_color_dark": -8342383
+        "mention_highlight": 1211603032
     },
     "colors": {
         "primary_dark_200": -872415233,
@@ -27,7 +26,8 @@
         "primary_dark_100": 1343912249,
         "primary_700": 1577058304,
         "uikit_btn_bg_color_selector_red": -566185626,
-        "primary_dark_400": -979318867
+        "primary_dark_400": -979318867,
+	"uikit_settings_item_text_color_dark": -8342383
     },
     "drawable_tints": {
         "drawable_overlay_guild_mentions_dark": 2063597568,
