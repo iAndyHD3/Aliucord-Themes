@@ -1,10 +1,10 @@
 {
     "manifest": {
         "author": "iAndy_HD3#3579",
-        "version": "1.0.4",
+        "version": "1.0.0",
         "name": "Matrix",
         "license": "no license",
-		"updater": "https:\/\/raw.githubusercontent.com\/iAndyHD3\/Aliucord-Themes\/main/Matrix\/Matrix.json"
+        "updater": "https:\/\/raw.githubusercontent.com\/iAndyHD3\/Aliucord-Themes\/main\/Matrix\/Matrix.json"
     },
     "background": {
         "overlay_alpha": 0,
@@ -15,21 +15,21 @@
     "simple_colors": {
         "background": 1056964608,
         "background_secondary": 721420288,
-        "accent": 2032183374,
+        "accent": -1524252583,
         "statusbar": 1560281088,
         "mention_highlight": 1211603032
     },
     "colors": {
         "primary_dark_200": -872415233,
         "primary_dark_360": 1560281087,
-        "link": -8342383,
-        "primary_dark_100": 1343912249,
-        "primary_700": 1577058304,
+        "link": -9513584,
+        "primary_dark_100": -1541768903,
+        "primary_700": -1944956890,
         "uikit_btn_bg_color_selector_red": -566185626,
         "primary_dark_400": -979318867
     },
     "drawable_tints": {
         "drawable_overlay_guild_mentions_dark": 2063597568,
-        "drawable_overlay_channels_selected_dark": 1393651030
+        "drawable_overlay_channels_selected_dark": 2048555321
     }
 }
