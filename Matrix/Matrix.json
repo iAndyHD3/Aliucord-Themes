@@ -4,7 +4,7 @@
         "version": "1.0.1",
         "name": "Matrix",
         "license": "no license",
-		"updater": "https:\/\/raw.githubusercontent.com\/iAndyHD3\/Aliucord-Themes\/mainV/Matrix\/Matrix.json"
+		"updater": "https:\/\/raw.githubusercontent.com\/iAndyHD3\/Aliucord-Themes\/main/Matrix\/Matrix.json"
     },
     "background": {
         "overlay_alpha": 0,
